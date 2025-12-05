@@ -1,49 +1,60 @@
 Hello everyone.
-Today I will be presenting our project on AI Safety, a topic that has become extremely important as artificial intelligence continues to advance at a rapid pace.
+Today I will talk about AI Safety.
+AI means artificial intelligence.
+AI is getting very strong and very smart.
 
-In the last two years, AI systems have grown so powerful that governments and major technology companies around the world have started introducing new regulations, safety frameworks, and international agreements.
-The goal of AI Safety is to make sure that AI systems remain safe, predictable, and beneficial — not harmful.
+Because AI is growing fast, many people worry about safety.
+Governments and big companies are making new rules to keep AI safe.
 
-Let’s look at the key risks that experts are most concerned about.
+Let me explain the main problems.
 
-The first major risk is misinformation and deepfakes.
-Modern AI can produce fake videos, audio, and images that look completely real. This can influence elections, damage reputations, and spread false information extremely quickly.
+First problem: fake videos and fake pictures.
+AI can make videos and photos that look real, but they are not real.
+These “deepfakes” can trick people and spread lies.
 
-The second risk involves biological threats.
-Advanced AI models are sometimes capable of generating harmful instructions related to dangerous chemicals or biological agents. Because of this, companies now limit certain “high-risk” prompts.
+Second problem: dangerous information.
+Some AI systems can give instructions about chemicals or other harmful things.
+So companies block these dangerous questions.
 
-The third risk is autonomous AI agents.
-These systems can carry out tasks on their own, and sometimes they behave in unexpected ways. This raises concerns about AI taking actions that users did not intend or understand.
+Third problem: AI agents.
+These AIs can do tasks by themselves.
+Sometimes they do things that people did not expect.
+This can be risky.
 
-The fourth risk is hallucination.
-AI can confidently provide information that is completely incorrect. In areas like medicine, finance, or legal advice, such mistakes can cause serious harm.
+Fourth problem: wrong answers.
+AI can speak very confidently, but the answer can be totally wrong.
+This is bad for doctors, money experts, or lawyers.
 
-Now let’s talk about what companies are actually doing to reduce these risks.
+Now, what are companies doing to make AI safer?
 
-Major organizations like OpenAI, Google, Meta, and Anthropic have signed global AI safety agreements and committed to stronger safety practices.
+Big companies like OpenAI, Google, Meta, and Anthropic are working together.
+They want to make sure AI is safe.
 
-One important practice is red-teaming — teams of experts deliberately try to “break” the model or cause unsafe outputs to identify weaknesses.
+They use red-teaming.
+This means experts try to make the AI fail, to find problems early.
 
-Another practice is content filtering and access restrictions.
-AI models now block prompts related to weapons, election interference, chemical threats, and other dangerous topics.
+They also use filters.
+These filters stop the AI from answering dangerous questions.
 
-Companies are also working on watermarking, which is a technique to mark AI-generated content so people can easily identify whether something was created by a machine.
+They are working on watermarks.
+Watermarks help people know if something was made by AI.
 
-There are also independent evaluations, where organizations publish safety reports before releasing new models. This helps ensure transparency and builds public trust.
+There are also safety checks.
+Before a new AI model is released, companies write reports about safety.
 
-Finally, global cooperation is increasing.
-During the AI Safety Summit in the United Kingdom, countries agreed to collaborate on shared safety standards and research.
+Countries are also working together.
+At the AI Safety Summit in the UK, many nations agreed to share ideas and rules for safe AI.
 
-So why does all of this matter?
+So why is AI Safety important?
 
-AI is already changing healthcare, education, businesses, politics, and global security.
-If these systems continue to grow more powerful without proper oversight, the social and economic consequences could be significant.
+AI is changing hospitals, schools, business, politics — everything.
+If AI becomes too powerful without rules, it can cause big problems.
 
-And this leads us to our final discussion question — the one we want our audience to think about:
+So here is our final question:
 
-Who should control and regulate advanced AI systems?
+Who should control powerful AI?
 Governments?
 Tech companies?
-Or independent international organizations?
+Or a special group of independent experts?
 
 Thank you for listening.
